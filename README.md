@@ -1,25 +1,32 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" alt="Pixel Banner">
+</p>
+
 <h1 align="center">👋 Halo, Saya Muhammad Restu Rahman!</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavy&color=0df&height=120&section=header&text=Front-End%20Developer%20&%20Graphic%2520Designer&fontSize=22&fontColor=fff&animation=fadeIn" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=00FF66&center=true&vCenter=true&width=500&height=50&lines=Front-End+Developer;UI%2FUX+Designer;Graphic+Artist+%26+3D+Animator" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=restuchz&style=flat-square&color=blueviolet" alt="Profile Views" />
-  <a href="https://github.com/restuchz"><img src="https://img.shields.io/badge/GitHub-restuchz-181717?style=flat-square&logo=github" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/resturhmn"><img src="https://img.shields.io/badge/LinkedIn-resturhmn-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://instagram.com/resturhmn"><img src="https://img.shields.io/badge/Instagram-@resturhmn-E4405F?style=flat-square&logo=instagram" alt="Instagram"></a>
-  <a href="mailto:resturahman232@gmail.com"><img src="https://img.shields.io/badge/Email-resturahman232@gmail.com-D14836?style=flat-square&logo=gmail" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=restuchz&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/restuchz"><img src="https://img.shields.io/badge/GitHub-restuchz-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/resturhmn"><img src="https://img.shields.io/badge/LinkedIn-resturhmn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://instagram.com/resturhmn"><img src="https://img.shields.io/badge/Instagram-@resturhmn-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"></a>
+  <a href="mailto:resturahman232@gmail.com"><img src="https://img.shields.io/badge/Email-resturahman232@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email"></a>
 </p>
 
 ---
 
-### 🚀 Tentang Saya
-* **Domisili:** Banjarmasin, Indonesia.
-* **Minat Utama:** Front-End Web Development, UI/UX Design, & Custom Graphic Artwork.
-* **Tech Stack Web:** React, Next.js, Tailwind CSS, TypeScript.
-* **Kreatif & Desain:** Desain Grafis (Logotype, Apparel Print, Poster, 3D Motion Animation).
-
----
+### 🕹️ ABOUT ME / TENTANG SAYA
+```text
+[+] Domisili      : Banjarmasin, Indonesia
+[+] Fokus Utama   : Front-End Web Development & Desain Grafis Kreatif
+[+] Tech Stack    : React, Next.js, Tailwind CSS, TypeScript
+[+] Seni & Motion : Logotype, Apparel Print, Poster, 3D Motion Animation
 
 ### 💻 Tech Stack & Tools
 
