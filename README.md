@@ -36,7 +36,7 @@
 
 ### 🛠️ Proyek & Karya Unggulan
 
-* **[Portfolio V2](https://github.com/restuchz/portofoliov2):** Website portofolio pribadi berbasis Next.js dan Tailwind CSS dengan grid layout interaktif untuk menampilkan galeri desain grafis dan kredensial.
+* **[Portofolio resturhmn]([https://github.com/restuchz/portofoliov2](https://www.resturhmn.me/)):** Website portofolio pribadi berbasis Next.js dan Tailwind CSS dengan grid layout interaktif untuk menampilkan galeri desain grafis dan kredensial.
 * **Eksplorasi Data Science:** Analisis data teks menggunakan Python untuk ekstraksi, pembersihan, dan pemrosesan pola frekuensi kata dari dokumen akademik.
 * **Galeri Seni Grafis & 3D:** Koleksi karya kreatif mencakup *boozt logo*, *pilkom logo*, seri desain kaos kustom, poster FKIP, hingga animasi logo 3D.
 
