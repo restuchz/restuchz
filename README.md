@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavy&color=0:050505,50:003311,100:00FF66&height=140&section=header&text=MUHAMMAD%20RESTU%20RAHMAN&fontSize=24&fontColor=00FF66&fontAlignY=38&animation=fadeIn&desc=Front-End%20Developer%20&%20Graphic%20Artist&descSize=14&descColor=ffffff" width="100%" alt="Pixel Gradient Header">
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&pause=1000&color=00FF66&center=true&vCenter=true&width=550&height=40&lines=Front-End+Developer;UI%2FUX+Designer;Graphic+Artist+%26+3D+Animator" alt="Typing SVG">
@@ -44,13 +41,10 @@
 ### 📊 Statistik GitHub & Aktivitas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=restuchz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=131722" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=restuchz&theme=tokyonight&hide_border=true&background=131722" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=restuchz&layout=compact&theme=tokyonight&hide_border=true&bg_color=131722" alt="Top Languages" />
-</p>
+
 
 ---
 
