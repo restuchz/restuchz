@@ -18,27 +18,26 @@
 </p>
 
 ### 🚀 Tentang Saya
-* **Domisili:** Banjarmasin, Indonesia.
-* **Minat Utama:** Front-End Web Development, UI/UX Design, & Custom Graphic Artwork.
-* **Tech Stack Web:** React, Next.js, Tailwind CSS, TypeScript.
-* **Kreatif & Desain:** Desain Grafis (Logotype, Apparel Print, Poster, 3D Motion Animation).
+- **Domisili:** Banjarmasin, Indonesia.
+- **Minat Utama:** Front-End Web Development, UI/UX Design, & Custom Graphic Artwork.
+- **Tech Stack Web:** React, Next.js, Tailwind CSS, TypeScript.
+- **Kreatif & Desain:** Desain Grafis (Logotype, Apparel Print, Poster, 3D Motion Animation).
 
 ---
 
 ### 💻 Tech Stack & Tools
 
 <p align="center">
-  <!-- Bahasa & Framework -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,git,github,vercel,figma,photoshop,blender&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,git,github,vercel,figma,photoshop,blender&perline=7" alt="Tech Stack Icons" />
 </p>
 
 ---
 
 ### 🛠️ Proyek & Karya Unggulan
 
-* **[Portofolio resturhmn](https://www.resturhmn.me/):** Website portofolio pribadi berbasis Next.js dan Tailwind CSS dengan grid layout interaktif untuk menampilkan galeri desain grafis dan kredensial.
-* **Eksplorasi Data Science:** Analisis data teks menggunakan Python untuk ekstraksi, pembersihan, dan pemrosesan pola frekuensi kata dari dokumen akademik.
-* **Galeri Seni Grafis & 3D:** Koleksi karya kreatif mencakup *boozt logo*, *pilkom logo*, seri desain kaos kustom, poster FKIP, hingga animasi logo 3D.
+- **[Portofolio resturhmn](https://www.resturhmn.me/):** Website portofolio pribadi berbasis Next.js dan Tailwind CSS dengan grid layout interaktif untuk menampilkan galeri desain grafis dan kredensial.
+- **Eksplorasi Data Science:** Analisis data teks menggunakan Python untuk ekstraksi, pembersihan, dan pemrosesan pola frekuensi kata dari dokumen akademik.
+- **Galeri Seni Grafis & 3D:** Koleksi karya kreatif mencakup *boozt logo*, *pilkom logo*, seri desain kaos kustom, poster FKIP, hingga animasi logo 3D.
 
 ---
 
@@ -56,5 +55,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,0&height=30&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,0&height=30&section=footer" width="100%" alt="Footer" />
 </p>
